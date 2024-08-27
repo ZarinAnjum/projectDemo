@@ -1,4 +1,4 @@
 # projectDemo
 This is my first Git repository.
 <br>
-Author - Zarin Anjum
+Author - Zarin Anjumm
